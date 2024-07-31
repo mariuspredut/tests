@@ -1,0 +1,4 @@
+We have a list of intervals defined by 2 numbers.
+
+Find an algorithm that find a number that 
+falls inside a largest number of intervals.
